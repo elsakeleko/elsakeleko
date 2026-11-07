@@ -31,3 +31,8 @@ I build, validate and ship ML solutions for real business problems: from messy d
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/elsa-keleko) · [elsakeleko5@gmail.com](mailto:elsakeleko5@gmail.com)
+
+
+## Timeline
+
+Career and project timeline with durations: [TIMELINE.md](TIMELINE.md)
